@@ -40,7 +40,6 @@
     "ember-sinon": "0.3.0",
     "ember-sinon-qunit": "1.0.0",
     "ember-suave": "2.0.1",
-    "ember-try": "^0.2.2",
     "loader.js": "^4.0.1"
   },
   "keywords": [
